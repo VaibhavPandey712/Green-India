@@ -141,7 +141,23 @@ footer {
     margin-top: 20px;
 }
 
-/* Smooth Scrolling */
-html {
-    scroll-behavior: smooth;
+.container2{
+    height: 80vh;
+    background-color: rgb(240, 250, 246);
+    width: 100%;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    padding: 50px;
+    justify-content: center;
+}
+
+.box2{
+    height: 500px;
+    background-color: rgb(237, 222, 222);
+    width: 500px;
+    margin-right: 80px;
+    box-shadow: 0px 0px 10px;
+
+    
 }
